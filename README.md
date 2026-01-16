@@ -10,13 +10,6 @@ El proyecto se desarrolló en un **Google Colab Notebook** y tiene como objetivo
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Objetivos](#objetivos)
 - [Datos Utilizados](#datos-utilizados)
-- [Estructura del Repositorio](#estructura-del-repositorio)
-- [Tecnologías y Herramientas](#tecnologías-y-herramientas)
-- [Cómo Usar](#cómo-usar)
-- [Resultados y Hallazgos](#resultados-y-hallazgos)
-- [Futuras Mejoras](#futuras-mejoras)
-- [Licencia](#licencia)
-
 ---
 
 ## Descripción del Proyecto
